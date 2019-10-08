@@ -45,7 +45,7 @@ class Particle(arcade.Sprite):
             ,(open_color.gray_2, 5)
             ,(open_color.gray_3, 6)
             ,(open_color.gray_3, 7)
-            ,(open_color.gray_2, 8)
+            ,(open_color.gray_3, 8)
             ,(open_color.gray_1, 8)
             ,(open_color.gray_2, 7)
             ,(open_color.gray_3, 6)
